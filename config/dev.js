@@ -5,7 +5,7 @@ module.exports = {
   mongoURI: 'mongodb://admin:alvascon8@ds247191.mlab.com:47191/alv_blog_dev',
   cookieKey: '123123123',
   redisUrl: 'redis://127.0.0.1:6379',
-  accessKeyId: 'asadasdasd',
-  secrectAccessKey: 'asdasdedasawd3ewd3e'
+  accessKeyId: '123123',
+  secrectAccessKey: 'zzzzzzz'
 };
  
